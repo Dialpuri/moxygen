@@ -1,6 +1,7 @@
+# {{name}}
+
 # {{kind}} `{{name}}` {{anchor refid}}
 
-{{briefdescription}}
 
 {{detaileddescription}}
 
